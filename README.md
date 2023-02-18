@@ -8,3 +8,6 @@ To ensure the data is properly processed before training, the program uses Porte
 The program also removes stop words, which are common words that add little value to the meaning of the text. This helps to focus the analysis on the words and phrases that are most relevant to identifying hate speech.
 
 Overall, the program is designed to provide an effective and accurate way to detect hate speech in textual data, which can help to prevent harmful speech from spreading and protect individuals and communities from the harmful effects of hate speech.
+
+
+The use of a voting classifier allows for the program to take into account the strengths of multiple machine learning algorithms and achieve better performance than any one algorithm alone. BERT, a powerful deep learning model for natural language processing, provides a particularly strong foundation for the program.
