@@ -3,7 +3,7 @@ The hate speech detection program is designed to identify and flag instances of 
 
 To improve the quality of the training data, two different datasets have been merged. The first dataset was small, and the second dataset was larger, which helps to improve the overall performance of the program.
 
-To ensure the data is properly processed before training, the program uses Porter stemmer and lemmatization techniques. These methods help to reduce the dimensionality of the input data by grouping together words with similar meanings, thereby improving the efficiency and accuracy of the program.
+To ensure the data is properly processed before training, the program uses Porter stemmer and lemmatization techniques. These methods help to clean the input data by grouping together words with similar meanings, thereby improving the efficiency and accuracy of the program.
 
 The program also removes stop words, which are common words that add little value to the meaning of the text. This helps to focus the analysis on the words and phrases that are most relevant to identifying hate speech.
 
